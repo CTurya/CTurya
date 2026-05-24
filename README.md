@@ -1,6 +1,6 @@
 # Hi there, I'm Charlotte 👋
 
-Data Analyst in the making | Python | SQL | Power BI | Excel
+Data Analyst in the making | Python | SQL | Power BI | Excel |
 Finding patterns in data | AI Agents|Founder @ Amani Nzuri
 
 ---
